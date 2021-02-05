@@ -1,64 +1,27 @@
-Yii Web Programming Framework
-=============================
+Project Name
+======
 
-Thank you for choosing Yii - a high-performance component-based PHP framework.
+Description, such as: Full site codebase repository
+------
 
+Additional information, such as: This GitHub repository includes the entire WP installation, including the theme and plugins installed on the server.
 
-INSTALLATION
-------------
+### Project Details
+Project Manager:
 
-Please make sure the release file is unpacked under a Web-accessible
-directory. You shall see the following files and directories:
+Primary Developer:
 
-      demos/               demos
-      framework/           framework source files
-      requirements/        requirement checker
-      CHANGELOG            describing changes in every Yii release
-      LICENSE              license of Yii
-      README               this file
-      UPGRADE              upgrading instructions
+Start Date:
 
+Due Date:
 
-REQUIREMENTS
-------------
+Completion Date:
 
-The minimum requirement by Yii is that your Web server supports
-PHP 5.1.0 or above. Yii has been tested with Apache HTTP server
-on Windows and Linux operating systems.
+### STATUS
 
-Please access the following URL to check if your Web server reaches
-the requirements by Yii, assuming "YiiPath" is where Yii is installed:
+Development: `Ongoing`
 
-      http://hostname/YiiPath/requirements/index.php
+Maintenance: `NA`
 
-
-QUICK START
------------
-
-Yii comes with a command line tool called "yiic" that can create
-a skeleton Yii application for you to start with.
-
-On command line, type in the following commands:
-
-        $ cd YiiPath/framework                (Linux)
-        cd YiiPath\framework                  (Windows)
-
-        $ ./yiic webapp ../testdrive          (Linux)
-        yiic webapp ..\testdrive              (Windows)
-
-The new Yii application will be created at "YiiPath/testdrive".
-You can access it with the following URL:
-
-        http://hostname/YiiPath/testdrive/index.php
-
-
-WHAT's NEXT
------------
-
-Please visit the project website for tutorials, class reference
-and join discussions with other Yii users.
-
-
-
-The Yii Developer Team
-http://www.yiiframework.com
+#### Notes
+* Fully customized site theme
